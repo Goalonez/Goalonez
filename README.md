@@ -1,6 +1,6 @@
-<img src="https://github.com/Goalonez/Goalonez/blob/main/morio.gif"/>
+<img src="https://github.com/Goalonez/Goalonez/blob/main/mario.gif"/>
 <br/>
-### Hi there, I'm [Goalonez!](https://goalonez.cn) 👋
+### Hi there, I'm [Goalonez](https://goalonez.cn)! 👋
 
 <a href="https://t.me/Goalonez">
   <img align="left" alt="ruki's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
