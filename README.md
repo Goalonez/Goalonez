@@ -67,6 +67,14 @@
 
 <!--START_SECTION:top-followers-->
 <table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/pingfei">
+        <img src="https://avatars2.githubusercontent.com/u/37255897" width="100px;" alt="pingfei"/>
+      </a>
+      <br />
+      <a href="https://github.com/pingfei">平飞</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
