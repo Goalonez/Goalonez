@@ -64,6 +64,12 @@
 
 [![Goalonez's Github Stats](https://github-readme-stats.vercel.app/api?username=Goalonez&show_icons=true&theme=dark)](https://github.com/Goalonez/github-readme-stats)
 
+### :sparkles: My Followers
+
+<!--START_SECTION:top-followers-->
+
+<!--END_SECTION:top-followers-->
+
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=goalonez.visitor-badge)
