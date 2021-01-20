@@ -1,6 +1,6 @@
+<img src="https://github.com/Goalonez/Goalonez/blob/main/morio.gif"/>
+<br/>
 ### Hi there, I'm [Goalonez!](https://goalonez.cn) 👋
-
-
 
 <a href="https://t.me/Goalonez">
   <img align="left" alt="ruki's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -18,6 +18,14 @@
   <img align="left" alt="ruki's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
 </a>
 
+<br/>
+
+<img src="https://github.com/Goalonez/Goalonez/blob/main/gopher.gif"/>
+
+<br/>
+
 [![Goalonez's Github Stats](https://github-readme-stats.vercel.app/api?username=Goalonez&show_icons=true&theme=dark)](https://github.com/Goalonez/github-readme-stats)
+
+<br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=goalonez.visitor-badge)
