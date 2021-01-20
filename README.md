@@ -1,11 +1,10 @@
 
 ## Hi there, I'm [Goalonez](https://goalonez.cn)! 👋
-<br/>
+
 <img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
 
+#### How to reach me:
 
-### How to reach me:
-<br/>
 <a href="https://t.me/Goalonez">
   <img align="left" alt="ruki's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
@@ -21,8 +20,6 @@
 <a href="https://www.zhihu.com/people/Goalonez">
   <img align="left" alt="ruki's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
 </a>
-
-<br/>
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
