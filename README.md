@@ -5,19 +5,19 @@
 
 #### How to reach me:
 
-<a href="https://t.me/Goalonez">
+<a href="https://t.me/Goalonez" target="_blank">
   <img align="left" alt="Goalonez's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
-<a href="https://twitter.com/Goalonez">
+<a href="https://twitter.com/Goalonez" target="_blank">
   <img align="left" alt="Goalonez's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="mailto:z471854680@gmail.com">
+<a href="mailto:z471854680@gmail.com" target="_blank">
   <img align="left" alt="Goalonez's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-<a href="https://www.yuque.com/goalonez">
+<a href="https://www.yuque.com/goalonez" target="_blank">
   <img align="left" alt="Goalonez's yuque" width="22px" src="https://gw.alipayobjects.com/zos/rmsportal/UTjFYEzMSYVwzxIGVhMu.png" />
 </a>
 
