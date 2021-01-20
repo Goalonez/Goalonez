@@ -69,7 +69,7 @@
 
 <br/>
 
-[![Goalonez's Github Stats](https://github-readme-stats.vercel.app/api?username=Goalonez&show_icons=true&theme=dark)](https://github.com/Goalonez/github-readme-stats)
+[![Goalonez's Github Stats](https://github-readme-stats.vercel.app/api?username=Goalonez&show_icons=true&theme=dark&count_private=true)](https://github.com/Goalonez/github-readme-stats)
 
 ### :sparkles: My Followers
 
