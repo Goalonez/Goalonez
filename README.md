@@ -41,23 +41,23 @@
 [![](https://img.shields.io/badge/-mongodb-83C75D?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-redis-EE7C6B?style=flat-square&logo=redis&logoColor=ffffff)](https://redis.io/)
 [![](https://img.shields.io/badge/-rabbitmq-EC870E?style=flat-square&logo=rabbitmq&logoColor=ffffff)](https://www.rabbitmq.com/)
-[![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
-[![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
-[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/)
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-jenkins-F6B297?style=flat-square&logo=jenkins&logoColor=ffffff)](https://www.jenkins.io/)
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 
 #### Console&Game
 <!-- ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/journey-ad) -->
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/journey_ad)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/goalonez)
+[![](https://img.shields.io/badge/League%20of%20Legends-171a21?style=flat-square&logo=League%20of%20Legends&logoColor=ffffff)](https://lol.qq.com/)
+[![](https://img.shields.io/badge/王者荣耀-171a21?style=flat-square&logo=王者荣耀&logoColor=ffffff)](https://pvp.qq.com/)
 
 <br/>
 
