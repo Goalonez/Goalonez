@@ -23,6 +23,10 @@
 
 <br/>
 
+<img src="https://github.com/Goalonez/Goalonez/blob/main/developer.gif"/>
+
+<br/>
+
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
