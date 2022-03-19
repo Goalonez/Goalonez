@@ -30,7 +30,7 @@
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/macOS-bigsur-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/big-sur/)>)
+[![](https://img.shields.io/badge/macOS-Monterey-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/monterey/)>)
 
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
