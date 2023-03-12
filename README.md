@@ -24,25 +24,22 @@
 <br/>
 
 #### Platform&Tools
-[![](https://img.shields.io/badge/macOS-Monterey-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/monterey/)>)
+[![](https://img.shields.io/badge/macOS-Ventura-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/ventura/)>)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
-
+[![](https://img.shields.io/badge/IOS-16-666666?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-pink?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)](https://www.jetbrains.com/idea/)
-[![](https://img.shields.io/badge/IDE-Pycharm-green?style=flat-square&logo=Pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
+[![](https://img.shields.io/badge/IDE-Webstorm-green?style=flat-square&logo=Pycharm&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/md-obsidian-purple?style=flat-square&logo=obsidian&logoColor=ffffff)](https://obsidian.md/)
 
 
-[![](https://img.shields.io/badge/xiaomi10-Ultra-f05032?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
-[![](https://img.shields.io/badge/iPhone-X-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-
 [![](https://img.shields.io/badge/-JAVA-976D00?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-python-205AA7?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 <!-- [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/) -->
-[![](https://img.shields.io/badge/-angular-94AAD6?style=flat-square&logo=angular&logoColor=ffffff)](https://angular.io/)
-[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/)
+<!-- [![](https://img.shields.io/badge/-angular-94AAD6?style=flat-square&logo=angular&logoColor=ffffff)](https://angular.io/)
+[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/) -->
 [![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
 [![](https://img.shields.io/badge/-mysql-A0A0A0?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-mongodb-83C75D?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
