@@ -1,7 +1,5 @@
 
-## Hi there, I'm [Goalonez](https://goalonez.cn)! 👋
-
-<img src="https://weather-icon.journeyad.repl.co/@hangzhou?v=1" align="right">
+## Hi👋, I'm [Goalonez](https://goalonez.cn)!
 
 #### How to reach me:
 
@@ -24,42 +22,37 @@
 <br/>
 
 #### Platform&Tools
-[![](https://img.shields.io/badge/macOS-Ventura-d0d1d4?style=flat-square&logo=Apple)](<[https://](https://www.apple.com/macos/ventura/)>)
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/IOS-16-666666?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/macOS-Sonoma-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/macos/)
+[![](https://img.shields.io/badge/Windows-11-0DDAF2?style=flat-square&logo=Windows&logoColor=ffffff)](https://www.microsoft.com/windows/)
+[![](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=Ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/IOS-17-666666?style=flat-square&logo=Apple&logoColor=ffffff)](https://www.apple.com/)
 
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-pink?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)](https://www.jetbrains.com/idea/)
-[![](https://img.shields.io/badge/IDE-Webstorm-green?style=flat-square&logo=Pycharm&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/md-obsidian-purple?style=flat-square&logo=obsidian&logoColor=ffffff)](https://obsidian.md/)
+[![](https://img.shields.io/badge/IDE-Webstorm-07BCF3?style=flat-square&logo=Pycharm&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
+[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Markdown-Typora-F0F0F0?style=flat-square&logo=Typora&logoColor=ffffff)](https://typora.io/)
 
+[![](https://img.shields.io/badge/Code-Java-12727C?style=flat-square&logo=Java&logoColor=ffffff)](https://www.java.com/)
+[![](https://img.shields.io/badge/Code-Python-FBD94D?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/Code-TypeScript-3278C6?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/Code-JavaScript-D3B414?style=flat-square&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
+[![](https://img.shields.io/badge/-Vue.js-3FB282?style=flat-square&logo=Vue.js&logoColor=ffffff)](https://vuejs.org/)
 
-[![](https://img.shields.io/badge/-JAVA-976D00?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
-[![](https://img.shields.io/badge/-python-205AA7?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-<!-- [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/) -->
-<!-- [![](https://img.shields.io/badge/-angular-94AAD6?style=flat-square&logo=angular&logoColor=ffffff)](https://angular.io/)
-[![](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=ffffff)](https://reactjs.org/) -->
-[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-mysql-A0A0A0?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/-mongodb-83C75D?style=flat-square&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/-redis-EE7C6B?style=flat-square&logo=redis&logoColor=ffffff)](https://redis.io/)
-[![](https://img.shields.io/badge/-rabbitmq-EC870E?style=flat-square&logo=rabbitmq&logoColor=ffffff)](https://www.rabbitmq.com/)
-[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
-[![](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
-<!-- [![](https://img.shields.io/badge/-Webpack-8dd6f9?style=flat-square&logo=webpack&logoColor=white)](https://webpack.js.org/) -->
-<!-- [![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/) -->
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-jenkins-F6B297?style=flat-square&logo=jenkins&logoColor=ffffff)](https://www.jenkins.io/)
-[![](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-MySQL-F29222?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-Oracle-E32124?style=flat-square&logo=Oracle&logoColor=ffffff)](https://www.oracle.com/)
+[![](https://img.shields.io/badge/-MongoDB-00ED64?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/-Redis-EE7C6B?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
+[![](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
+[![](https://img.shields.io/badge/-Elasticsearch-79DBCA?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/elasticsearch)
+
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=Nginx&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Kubernetes-316DE6?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+[![](https://img.shields.io/badge/-Jenkins-314D5E?style=flat-square&logo=Jenkins&logoColor=ffffff)](https://www.jenkins.io/)
 
 #### Console&Game
-<!-- ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/journey-ad) -->
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/goalonez)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=Steam&logoColor=ffffff)](https://steamcommunity.com/id/goalonez)
 [![](https://img.shields.io/badge/League%20of%20Legends-171a21?style=flat-square&logo=League%20of%20Legends&logoColor=ffffff)](https://lol.qq.com/)
 [![](https://img.shields.io/badge/王者荣耀-171a21?style=flat-square&logo=王者荣耀&logoColor=ffffff)](https://pvp.qq.com/)
 
