@@ -1,5 +1,5 @@
 
-## Hi👋, I'm [Goalonez](https://goalonez.cn)!
+## Hi👋, I'm [Goalonez](https://blog.goalonez.site)!
 
 #### How to reach me:
 
