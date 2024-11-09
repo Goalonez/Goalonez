@@ -19,7 +19,7 @@
 
 <img src="https://github.com/Goalonez/Goalonez/blob/main/developer.gif"/>
 
-<br/>
+<!-- <br/>
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/macOS-Sonoma-d0d1d4?style=flat-square&logo=Apple)](https://www.apple.com/macos/)
@@ -30,18 +30,16 @@
 [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-pink?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/IDE-Webstorm-07BCF3?style=flat-square&logo=Pycharm&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Markdown-Typora-F0F0F0?style=flat-square&logo=Typora&logoColor=ffffff)](https://typora.io/)
+[![](https://img.shields.io/badge/Markdown-Obsidian-5C30B4?style=flat-square&logo=Obsidian&logoColor=ffffff)](https://obsidian.md/)
 
 [![](https://img.shields.io/badge/Code-Java-12727C?style=flat-square&logo=Java&logoColor=ffffff)](https://www.java.com/)
-[![](https://img.shields.io/badge/Code-Python-FBD94D?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/Code-TypeScript-3278C6?style=flat-square&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/Code-JavaScript-D3B414?style=flat-square&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/-Vue.js-3FB282?style=flat-square&logo=Vue.js&logoColor=ffffff)](https://vuejs.org/)
 
 [![](https://img.shields.io/badge/-MySQL-F29222?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Oracle-E32124?style=flat-square&logo=Oracle&logoColor=ffffff)](https://www.oracle.com/)
-[![](https://img.shields.io/badge/-MongoDB-00ED64?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-Redis-EE7C6B?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
+[![](https://img.shields.io/badge/-MongoDB-00ED64?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
 [![](https://img.shields.io/badge/-Elasticsearch-79DBCA?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/elasticsearch)
 
@@ -68,4 +66,4 @@
 
 <br/>
 
-</details>
+</details> -->
