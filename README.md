@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://github.com/Goalonez/Goalonez/blob/main/developer.gif"/>
+<img src="./developer.gif"/>
 
 <!-- <br/>
 
